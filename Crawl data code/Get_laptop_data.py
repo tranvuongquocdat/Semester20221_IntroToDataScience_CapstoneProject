@@ -72,7 +72,7 @@ if __name__ == "__main__":
     browser.get("https://thinkpro.vn/laptop/?f_price=7000000_null&p_sort=1")
 
     #Stop the program 3 seconds
-    sleep(3)
+    sleep(10)
 
     count = 0
     laptop_list = []
@@ -87,7 +87,7 @@ if __name__ == "__main__":
             laptop_links[j].click()
             sleep(3)
             browser.get(browser.current_url)
-            sleep(3)
+            sleep(5)
 
             name, cpu, ram, monitor, gpu, memory, battery, connection, weight, price = get_laptop_infor()
             print("laptop ", count)
@@ -110,7 +110,7 @@ if __name__ == "__main__":
             browser.execute_script("window.history.go(-1)")
             sleep(3)
             browser.get(browser.current_url)
-            sleep(3)
+            sleep(5)
             j += 1
             if j == len(laptop_links):
                 break
