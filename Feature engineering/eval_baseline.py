@@ -7,3 +7,4 @@ def eval_baseline(X_train, X_test, y_train, y_test, model = RandomForestRegresso
     preds = model.predict(X_test)
     r2 = r2_score(preds, y_test)
     return r2
+
