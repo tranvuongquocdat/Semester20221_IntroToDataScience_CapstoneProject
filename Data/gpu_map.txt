@@ -1,0 +1,202 @@
+0:0
+NVIDIA GeForce RTX 3050 Ti:58.5
+Intel Iris Xe Graphics:8.34
+NVIDIA® GeForce RTX™ 3050:53.7
+AMD Radeon Graphics:3.59
+AMD Radeon 660M:nan
+Integrated Intel® Iris® Xe Graphics:16.0
+NVIDIA® GeForce RTX™ 3050 Ti:58.5
+AMD® Radeon™ Graphics:58.5
+Intel Iris Xe graphics:16.2
+Intel Iris Xe:16.0
+Intel Iris Xe Graphics, Nvidia Geforce RTX3070:112.0
+NVIDIA® GeForce RTX™ 3070 Ti:121.0
+Intel UHD Graphics:13.9
+Intel UHD G1:5.0
+Intel UHD 620:4.83
+Intel UHD Graphics, Nvidia Quadro M1000m:17.4
+Intel UHD:4.97
+Intel UHD G4:5.0
+UHD Graphics:4.97
+Intel HD 520:4.26
+Intel® Core™ UHD Graphics:5.0
+Intel UHD Graphics 605:1.43
+Intel UHD 630:5.12
+Intel® UHD Graphics:4.97
+Intel UHD, Nvidia MX 330:15.0
+AMD Radeon Vega 8 Graphics:8.98
+Intel UHD 620, Nvidia Geforce MX150:14.7
+AMD Radeon Graphics, Nvidia MX 450:21.5
+Iris Xe:16.2
+Intel HD Graphic 620:4.83
+Intel® Iris® Plus 655:1.58
+Đồ họa Intel® Iris® UHD:15.0
+Radeon Mobile:48.1
+Intel® Iris® XE Graphics:16.2
+AMD Radeon Vega 6:7.31
+Iris Xe Graphics:16.2
+AMD Radeon™ Graphics (7 Cores):nan
+Iris® Xᵉ Graphics:16.2
+Intel Iris XE:16.2
+NVIDIA GeForce RTX 3050 Ti 4GB GDDR6:58.5
+Intel Arc 3 A370M:nan
+Intel Iris G7:nan
+Iris XE:16.2
+Radeon RX Vega 9:82.2
+Intel® Iris® Xᵉ Graphics:16.2
+Radeon Graphics:nan
+Radeon™ Graphics:nan
+Intel Iris XE, Nvidia MX 330:15.0
+UHD Graphics, Geforce MX330:15.0
+Intel® Iris® Xe Graphics:16.2
+AMD Radeon Graphics, Nvidia GTX 1650:41.0
+Radeon Vega 7 Graphics, AMD:83.1
+AMD Radeon Vega 10:10.3
+Đồ họa Intel® Iris® XE:16.2
+MX450:21.5
+AMD Radeon™ 660M:10.0
+NVIDIA® GeForce® MX450 2GB GDDR6:21.5
+Intel Graphics:8.0
+Intel Iris Xᵉ Graphics:16.2
+AMD Radeon™ Graphics:nan
+Nvidia GTX 1650 4GB GDDR6:41.0
+Radeon Graphics, AMD:83.1
+Radeon Graphics, Radeon RX 5500M:42.6
+UHD Graphics, GeForce RTX™ 3050:53.7
+NVIDIA RTX 3050Ti:58.5
+NVIDIA GeForce MX330:52.0
+Intel UHD Graphics, RTX 3050:53.7
+Radeon™ Graphics, GeForce RTX 3050:53.7
+UHD Graphics, GeForce RTX™ 3050Ti:58.5
+Intel® Core™ UHD Graphics, GeForce RTX™ 3050:53.7
+Intel UHD 620, Nvidia Quadro P500:9.64
+Radeon Vega 8 Graphics:11.9
+Intel® Iris® Xe Graphic, NVIDIA GeForce GTX 1650 Max-Q:36.2
+Apple GPU:nan
+AMD Radeon Graphics, Nvidia RTX 3050:52.0
+Intel® Iris® Xe Graphic, NVIDIA® GeForce® GTX 1650 Max-Q:36.2
+AMD Radeon Graphics, Nvidia GTX1650:42.9
+Core UHD, GeForce GTX 1650 MaxQ:36.2
+Intel Iris Xe Max:15.5
+UHD Graphics, Geforce RTX 3050:53.7
+Intel® Core™ UHD, Geforce GTX 1650:41.0
+GeForce GTX 1650:42.9
+NVIDIA Geforce MX450 2GB:21.5
+Intel Iris Plus G4:7.0
+NVIDIA Geforce RTX 3050 Ti:58.5
+Intel® Iris® Xe Graphics, NVIDIA GeForce MX450:21.5
+NVIDIA GeForce GTX 1650 4GB GDDR6:42.9
+Intel Iris Plus Xe:10.0
+Intel UHD 630, Nvidia Geforce GTX1050Ti:31.0
+Intel UHD Graphics, Nvidia RTX 3050:52.0
+Intel UHD Tiger Lake:10.0
+NVIDIA® GeForce® RTX 3050Ti GDDR6:118.0
+Intel® Core™ UHD Graphics, GeForce RTX 3050Ti:58.5
+NVIDIA GeForce RTX 3050 4GB GDDR6:53.7
+Intel® UHD Graphics, GeForce RTX 3050:53.7
+Intel Iris Plus G7:11.0
+Intel UHD Graphic:4.97
+AMD Radeon Graphics, NVIDIA GeForce RTX 3050 4GB GDDR6:53.7
+Geforce GTX 1650:41.0
+Intel HD 530:4.59
+AMD Radeon 660M Graphics:10.0
+NVIDIA GeForce RTX3050:53.7
+GeForce RTX™ 3050 4GB:53.7
+Intel® Iris® Xᵉ Graphics, GeForce RTX 3050:53.7
+Radeon™ Graphics, Gefore RTX 3050:53.7
+Intel Iris XE Graphics:16.2
+Radeon Graphics, GeForce® GTX 1650:42.9
+Intel Iris Xe, Nvidia GTX 1650:41.0
+Iris Xe Graphics (80EU):16.0
+Intel HD 630:4.98
+Intel® Core™ UHD, GeForce RTX 3050:53.7
+Intel® Core™ UHD, GeForce® RTX 3060:88.6
+Intel UHD, GeForce RTX 3050:53.7
+Intel® Iris® Xᵉ Graphics, GeForce RTX 3060:88.6
+Intel®Iris®Xe:16.2
+Intel UHD 630, Nvidia Geforce GTX1650Ti:42.0
+NVIDIA® GeForce RTX™ 3050 Laptop GPU:53.7
+GeForce RTX™ 3050:53.7
+Iris XE, GeForce MX450:21.5
+AMD Radeon Graphics, Nvidia RTX 3050Ti:58.5
+NVIDIA GEFORCE RTX 3060:88.6
+NVIDIA® GeForce® RTX™ 3050:53.7
+Iris XE, GeForce RTX 3050 Ti:58.5
+NVIDIA RTX 2050:36.0
+GeForce MX450 2GB:21.5
+AMD Radeon Graphics, GeForce RTX 3050:53.7
+Iris® Xe Graphics eligible, GeForce RTX™ 3050 Ti:58.5
+Intel UHD 630, Nvidia Quadro T2000:44.4
+NVIDIA GeForce RTX 3050:53.7
+AMD Radeon Graphics, Nvidia Geforce RTX3050Ti:58.0
+NVIDIA RTX 3050 4GB:53.7
+Core UHD, GeForce RTX 3050:53.7
+Intel UHD 630, Nvidia Geforce GTX1650:42.9
+Iris Plus G7:11.0
+NVIDIA® RTX 3060 Max-Q:89.0
+Intel® Core™ UHD, GeForce RTX 3050Ti:58.5
+GeForce RTX™ 3050Ti 4GB:58.5
+Intel UHD 630, Nvidia Quadro T1000:65.0
+NVIDIA RTX 3060 6GB GDDR6:88.6
+AMD Radeon Graphics, NVIDIA GeForce MX450:21.5
+Radeon™ Graphics, GeForce RTX 3060:88.6
+Intel UHD, Nvidia GTX 1650 Ti:42.3
+Intel UHD Tiger Lake, NVIDIA GeForce RTX 3060 6GB GDDR6:88.6
+Radeon Graphics, Radeon™ RX 6600M:72.6
+Intel UHD Graphics, GeForce RTX 3050Ti:58.5
+Intel UHD Tiger Lake, Nvidia Quadro T1200M:35.0
+NVIDIA MX550 2GB GDDR6:30.1
+Radeon Graphics, GeForce RTX 3060:88.6
+NVIDIA® GeForce RTX™ 3060:88.6
+Intel UHD Graphics, Nvidia Geforce RTX3050Ti:58.0
+Intel UHD 630, Nvidia Geforce GTX1070:79.8
+NVIDIA GeForce RTX 3060 6GB GDDR6:88.6
+Intel® Core™ UHD, GeForce RTX 3050 Ti:58.5
+NVIDIA GeForce RTX 3070:112.0
+Intel UHD 630, Nvidia Quadro P1000:25.0
+NVIDIA GeForce RTX 3060:88.6
+Iris X Graphic:16.2
+Intel Iris XE, NVIDIA GeForce RTX 3060:88.6
+Radeon 680M:40.0
+Intel UHD Tiger Lake, NVIDIA RTX 3070 8G:154.0
+AMD Radeon Graphics, Nvidia GTX 3070:112.0
+NVIDIA®RTX™ A2000:50.4
+AMD Radeon Graphics, Nvidia RTX 3050 4GB:52.0
+NVIDIA GeForce RTX 3070 8GB GDDR6:112.0
+NVIDIA® GeForce RTX™ 3070:112.0
+AMD Radeon Graphic:66.7
+Intel UHD 630, Nvidia GTX 1660 Ti:76.2
+Intel® Core™ UHD, GeForce RTX 3060:88.6
+Intel UHD, NVIDIA® GeForce RTX™ 3070:112.0
+AMD Radeon™ Graphics, NVIDIA® GeForce RTX™ 3060:88.6
+NVIDIA® GeForce RTX™ 3050 4GB GDDR6:53.7
+Intel Iris Xe, Nvidia RTX 3050:52.0
+Intel UHD Tiger Lake, Quadro T1200:42.0
+Intel® UHD Graphics, NVIDIA RTX 3050TI:58.5
+AMD Radeon Graphics, Nvidia Geforce RTX3060:88.6
+Intel® Core™ UHD, GeForce RTX 3070:112.0
+Iris XE, NVIDIA® GeForce RTX™ 3050:53.7
+Intel UHD Graphics, Nvidia Quadro T1200M:35.0
+NVIDIA®GeForce®GTX 1660 Ti with Max-Q:56.8
+NVIDIA® GeForce® RTX™ 3050 Ti:58.5
+Iris® Xe Graphics eligible, GeForce RTX™ 3070 Ti:121.0
+Iris Xe Graphics, NVIDIA RTX A1000:65.0
+Intel UHD Tiger Lake, NVIDIA GeForce RTX 3080:128.0
+AMD Radeon Graphics, Nvidia Geforce RTX3070:112.0
+Intel® Core™ UHD Graphics, Geforce RTX 3060:88.6
+AMD Radeon™ Graphics, NVIDIA® GeForce RTX™ 3070 Ti:121.0
+Intel® Core™ UHD Graphics, GeForce RTX 3060:88.6
+Intel® Core™ UHD Graphics, GeForce RTX 3070:112.0
+Intel Iris Xe Graphics, Nvidia Geforce RTX3060:88.6
+Intel® Iris® Xe Graphics, Nvidia RTX A2000:70.0
+NVIDIA GeForce RTX™ 3060:88.6
+NVIDIA GeForce RTX3070Ti 8GB GDDR6:121.0
+Nvidia Geforce RTX 3070Ti 8GB GDDR6:121.0
+NVIDIA RTX A3000 12GB GDDR6:87.0
+NVIDIA GeForce RTX 3070 Ti:121.0
+NVIDIA® GeForce RTX™ 3080 Max-Q 8GB GDDR6:128.0
+NVIDIA GeForce RTX 3080Ti 16GB GDDR6:139.0
+Nvidia Geforce RTX 3080Ti 16GB GDDR6:139.0
+Intel® Iris® Xe Graphics eligible, RTX30080Ti:139.0
+Intel Iris Xe Graphics, Nvidia Geforce RTX3080Ti:139.0
+NVIDIA GeForce RTX 3080 Ti Laptop GPU 16GB GDDR6:139.0
